@@ -1,0 +1,10 @@
+
+
+compile:
+make
+
+or 
+
+g++ -c BMI.cpp
+g++ -c lab2_a.cpp
+g++ -o lab2 BMI.o lab2_a.o
